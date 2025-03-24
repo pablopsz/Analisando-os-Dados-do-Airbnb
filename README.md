@@ -9,4 +9,4 @@ Um ponto a se destacar sobre o Airbnb é o compartilhamento de amplos conjuntos 
 
 Neste projeto, iremos analisar os dados referentes à cidade Edinburgh, e ver quais insights podem ser extraídos a partir de dados brutos.
 
-[**Analisando os Dados do Airbnb**](https://github.com/pablopsz/Analisando-os-Dados-do-Airbnb/Analisando_os_Dados_do_Airbnb.ipynb)
+[**Analisando os Dados do Airbnb**](https://github.com/pablopsz/Analisando-os-Dados-do-Airbnb/blob/main/Analisando_os_Dados_do_Airbnb.ipynb)
